@@ -22,7 +22,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-runs full experimental comparison and generates publication figures.
+runs full experiments.
 
 ## citation
 
