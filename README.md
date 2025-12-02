@@ -1,4 +1,4 @@
-# ag-td
+# Adversarially-Guided TD Learning
 
 adversarially-guided td for provable bounds
 
